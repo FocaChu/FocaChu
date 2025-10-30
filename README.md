@@ -2,7 +2,6 @@
     display: flex;
     flex-wrap: wrap; 
     justify-content: center; 
-    gap: 15px; 
 ">
     <div align="center">
         <img alt="Minhas Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=FocaChu&show_icons=true&theme=dracula" />
