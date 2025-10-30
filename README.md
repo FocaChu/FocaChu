@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; align="center">
+<div style="display: flex; align="center">
 
 ![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FocaChu&show_icons=true&theme=dracula)
 
