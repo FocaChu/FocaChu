@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Augusto, um Desenvolvedor de Software Back-End.
+# Olá! Eu sou o João Augusto, Desenvolvedor de Software Back-End.
 
 *Entusiasta de Arquitetura de Software e Aluno Autodidata.*
 
