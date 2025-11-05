@@ -73,9 +73,9 @@ Atualmente, estou expandindo minha stack .NET com **Blazor** para desenvolviment
 
 Uma plataforma completa para criação de conteúdo de Pokémon, construída com uma arquitetura limpa. É meu laboratório pessoal para aplicar e dominar conceitos avançados de engenharia de software.
 
-*   **O Desafio:** Construir um sistema complexo e resiliente, superando limitações de hardware através de um fluxo de trabalho CI/CD (Vercel + ngrok) desde o primeiro dia.
+*   **O Desafio:** Construir um sistema complexo, superando limitações de hardware através de um fluxo de trabalho CI/CD (Vercel + ngrok) desde o primeiro dia.
 *   **A Arquitetura:** Backend em .NET 8 com **Clean Architecture**, **CQRS com MediatR**, e **Eventos de Domínio**. Infraestrutura totalmente containerizada com **Docker**.
-*   **O Resultado:** Uma API robusta e desacoplada, com autenticação JWT, integração com serviços externos (Brevo para e-mails, MinIO para arquivos) e um pipeline de validação automático com FluentValidation.
+*   **O Resultado:** Uma API desacoplada, com autenticação JWT, integração com serviços externos (Brevo para e-mails, MinIO para arquivos) e um pipeline de validação automático com FluentValidation.
 
 ---
 
