@@ -31,7 +31,7 @@ Atualmente, estou expandindo minha stack .NET com **Blazor** para desenvolviment
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white" alt=".NET" />
       <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspnet&logoColor=white" alt="ASP.NET Core" />
     </td>
     <td align="center">
