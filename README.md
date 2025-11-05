@@ -57,7 +57,17 @@ Atualmente, estou expandindo minha stack .NET com **Blazor** para desenvolviment
 
 ### 📌 Projeto Principal em Destaque: Hisuian Archives
 
-**[➡️ Repositório Backend](https://github.com/FocaChu/HisuianArchivesBack) | [➡️ Repositório Frontend](https://github.com/FocaChu/HisuianArchivesFront)**
+<p>
+  <a href="https://github.com/FocaChu/HisuianArchivesBack" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-Backend-512BD4?style=for-the-badge&logo=.net" alt="Repositório Backend" />
+  </a>
+  <a href="https://github.com/FocaChu/HisuianArchivesFront" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular" alt="Repositório Frontend" />
+  </a>
+  <a href="https://hisuian-archives.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</p>
 
 Uma plataforma completa para criação de conteúdo de Pokémon, construída com uma arquitetura limpa. É meu laboratório pessoal para aplicar e dominar conceitos avançados de engenharia de software.
 
