@@ -58,14 +58,14 @@ Atualmente, estou expandindo minha stack .NET com **Blazor** para desenvolviment
 ### 📌 Projeto Principal em Destaque: Hisuian Archives
 
 <p>
+  <a href="https://hisuian-archives.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-black?style=flat-square&logo=vercel" alt="Live Demo" />
+  </a>
   <a href="https://github.com/FocaChu/HisuianArchivesBack" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-Backend-512BD4?style=for-the-badge&logo=.net" alt="Repositório Backend" />
+    <img src="https://img.shields.io/badge/Backend_Source-%23512BD4?style=flat-square&logo=github" alt="Repositório Backend" />
   </a>
   <a href="https://github.com/FocaChu/HisuianArchivesFront" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular" alt="Repositório Frontend" />
-  </a>
-  <a href="https://hisuian-archives.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Frontend_Source-%23DD0031?style=flat-square&logo=github" alt="Repositório Frontend" />
   </a>
 </p>
 
