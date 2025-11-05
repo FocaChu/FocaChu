@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou o João Augusto, um Desenvolvedor de Software e Arquiteto de Sistemas.
+# Olá! Eu sou o João Augusto, um Desenvolvedor de Software Back-End.
 
-*Transformando ideias complexas em sistemas robustos e escaláveis com .NET, C# e uma paixão por código limpo.*
+*Entusiasta de Arquitetura de Software e Aluno Autodidata.*
 
 ---
 
@@ -51,7 +51,7 @@ Atualmente, estou expandindo minha stack .NET com **Blazor** para desenvolviment
   </tr>
 </table>
 
-**Arquitetura & Padrões:** Clean Architecture, CQRS, Domain-Driven Design (DDD), SOLID, RESTful APIs
+### **Arquitetura & Padrões:** Clean Architecture, CQRS, Domain-Driven Design (DDD), SOLID, RESTful APIs
 
 ---
 
@@ -59,7 +59,7 @@ Atualmente, estou expandindo minha stack .NET com **Blazor** para desenvolviment
 
 **[➡️ Repositório Backend](https://github.com/FocaChu/HisuianArchivesBack) | [➡️ Repositório Frontend](https://github.com/FocaChu/HisuianArchivesFront)**
 
-Uma plataforma completa para criação de conteúdo de Pokémon, construída com uma arquitetura de nível profissional. É meu laboratório pessoal para aplicar e dominar conceitos avançados de engenharia de software.
+Uma plataforma completa para criação de conteúdo de Pokémon, construída com uma arquitetura limpa. É meu laboratório pessoal para aplicar e dominar conceitos avançados de engenharia de software.
 
 *   **O Desafio:** Construir um sistema complexo e resiliente, superando limitações de hardware através de um fluxo de trabalho CI/CD (Vercel + ngrok) desde o primeiro dia.
 *   **A Arquitetura:** Backend em .NET 8 com **Clean Architecture**, **CQRS com MediatR**, e **Eventos de Domínio**. Infraestrutura totalmente containerizada com **Docker**.
@@ -67,7 +67,7 @@ Uma plataforma completa para criação de conteúdo de Pokémon, construída com
 
 ---
 
-### 📫 Como me Encontrar
+### Contato
 
 <p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-cordeiro-123397378" target="_blank">
