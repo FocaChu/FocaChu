@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/FocaChu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FocaChu&show_icons=true&include_all_commits=true&count_private=true&title_color=602139&text_color=A4A2AF&icon_color=443659&bg_color=252331&border_color=8E858C"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FocaChu&layout=compact&langs_count=8&title_color=602139&text_color=A4A2AF&icon_color=443659&bg_color=252331&border_color=8E858C"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FocaChu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FocaChu&layout=compact&langs_count=8&theme=dracula"/>
   </a> 
 </div>
 
